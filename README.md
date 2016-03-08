@@ -3,7 +3,9 @@
 This is a basic example of how to create a C-Python extension module.
 
 To compile using gcc:
+
 make
+
 (creates lib/AddTwo.so)
 
 To build with python:
